@@ -52,11 +52,15 @@ me.say_hi()
 
 #### [Compendium of Materia Medica](https://github.com/our0boros/Compendium-of-Materia-Medica/tree/main)
 
-Intro: [APP Compendium-of-Materia-Medica.pdf](个人简历_游戏开发_素材\APP Compendium-of-Materia-Medica.pdf) 
+Intro: 
+
+[APP Compendium-of-Materia-Medica.pdf](个人简历_游戏开发_素材\APP Compendium-of-Materia-Medica.pdf) 
 
 #### [Realtime Procedural Terrain Generation](https://github.com/our0boros/RealtimeProceduralTerrainGeneration)
 
-Intro: [Realtime-Procedural-Terrain-Generation-Report.pdf](个人简历_游戏开发_素材\Realtime-Procedural-Terrain-Generation-Report.pdf) 
+Intro: 
+
+[Realtime-Procedural-Terrain-Generation-Report.pdf](个人简历_游戏开发_素材\Realtime-Procedural-Terrain-Generation-Report.pdf) 
 
 Presentation: 
 
