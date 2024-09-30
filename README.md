@@ -54,27 +54,27 @@ me.say_hi()
 
 Intro: 
 
-[APP Compendium-of-Materia-Medica.pdf](个人简历_游戏开发_素材\APP Compendium-of-Materia-Medica.pdf) 
+[APP Compendium-of-Materia-Medica.pdf](https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/APP%20Compendium-of-Materia-Medica.pdf) 
 
 #### [Realtime Procedural Terrain Generation](https://github.com/our0boros/RealtimeProceduralTerrainGeneration)
 
 Intro: 
 
-[Realtime-Procedural-Terrain-Generation-Report.pdf](个人简历_游戏开发_素材\Realtime-Procedural-Terrain-Generation-Report.pdf) 
+[Realtime-Procedural-Terrain-Generation-Report.pdf](https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Realtime-Procedural-Terrain-Generation-Report.pdf) 
 
 Presentation: 
 
-<video src="个人简历_游戏开发_素材/Realtime-Procedural-Terrain-Generation-Presentation.mp4"></video>
+<video src="https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Realtime-Procedural-Terrain-Generation-Presentation.mp4"></video>
 
 #### [Marrakech-JavaFX](https://github.com/our0boros/Marrakech-JavaFX/tree/main)
 
 Presentation: 
 
-<video src="个人简历_游戏开发_素材/Board Game - Marrakech.mp4"></video>
+<video src="https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Board%20Game%20-%20Marrakech.mp4"></video>
 
 #### [Game Jam: Sekidog-ShadowDieThrice](https://github.com/our0boros/Game-Jam-Sekidog-ShadowDieThrice)
 
 Presentation: 
 
-<video src="个人简历_游戏开发_素材/Game Jam - Sekidog-ShadowDieThrice.mp4"></video>
+<video src="https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Game%20Jam%20-%20Sekidog-ShadowDieThrice.mp4"></video>
 
