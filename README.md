@@ -62,19 +62,19 @@ Intro:
 
 [Realtime-Procedural-Terrain-Generation-Report.pdf](https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Realtime-Procedural-Terrain-Generation-Report.pdf) 
 
-Presentation: 
+Presentation: https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Realtime-Procedural-Terrain-Generation-Presentation.mp4
 
-<video src="https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Realtime-Procedural-Terrain-Generation-Presentation.mp4"></video>
+
 
 #### [Marrakech-JavaFX](https://github.com/our0boros/Marrakech-JavaFX/tree/main)
 
-Presentation: 
+Presentation: https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Board%20Game%20-%20Marrakech.mp4
 
-<video src="https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Board%20Game%20-%20Marrakech.mp4"></video>
+
 
 #### [Game Jam: Sekidog-ShadowDieThrice](https://github.com/our0boros/Game-Jam-Sekidog-ShadowDieThrice)
 
-Presentation: 
+Presentation:  https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Game%20Jam%20-%20Sekidog-ShadowDieThrice.mp4
 
-<video src="https://github.com/our0boros/our0boros/blob/main/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86_%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91_%E7%B4%A0%E6%9D%90/Game%20Jam%20-%20Sekidog-ShadowDieThrice.mp4"></video>
+
 
